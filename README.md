@@ -36,7 +36,7 @@ Praticar a criação de um componente visual com foco em:
 ## 🔗 Links
 
 - [🔗 Visualizar Projeto](https://marianaararipe.github.io/product-card-responsive/)
-- [📁 Repositório no Frontend Mentor]()
+- [📁 Repositório no Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-htmlcss-OdrW83mI1G)
 - [📂 Código no GitHub](https://github.com/marianaararipe/product-card-responsive)
 
 ---
